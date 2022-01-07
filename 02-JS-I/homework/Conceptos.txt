@@ -1,0 +1,18 @@
+Actividad de Homework No. 1:
+
+Escribir explicaciones de los siguientes conceptos:
+
+Variables:
+Podemos decir que las variables son "recipientes" dentro del código donde podemos almacenar el valor que queramos, para luego usarlo en el programa, hay diferentes tipos de datos para las variables entre los que hay números, texto, booleanos, entre otros, dependiendo del lenguaje.
+
+Strings:
+Los strings son un tipo de dato que puede tener una variable, este sería el tipo de dato correspondiente a Texto, que puede ser desde una sola letra, un número, palabras enteras, frases o combinaciones de todos estos, se marca el inicio y el final del string mediante comillas simples o dobles, y éstos no se pueden usar para operaciones aritméticas, pero si para unirlos con otros textos mediante la Concatenación.
+
+Funciones (argumento, 'return'):
+Las funciones son bloques de código que nos ayudan a no repetir código ya que nos permiten usarlas en cualquier momento y desde cualquier parte, las podemos crear declarandolas con "Function", y pueden o no tener nombre y son delimitados con corchetes para poder enmarcar el bloque de código que pertenece a esa función, éstas pueden tener argumentos (entradas de información como variables que podemos usar para tener resultados diferentes cada vez que usamos lo función con diferentes argumentos, y de igual forma pueden retornar o no algún valor al terminar la función, para retornar los valores debemos hacer uso de la keyword "return" para indicar el dato o variable que deseamos retornar.
+
+Declaraciones "If":
+Las Declaraciones son un elemento en el código el cual no tiene un valor a diferencia de las variables, pero éstas tienen lo propiedad de que pueden hacer algo con los valores que nosotros les demos, por lo que hasta cierto punto podemos comparar las declaraciones con las funciones, solo que las declaraciones ya vienen definidos por el propio lenguje, mediante sus propias Keywords. Una de estas declaraciones es el "If", el cual es un elemento que funciona de "estructura de desición" permitiendo evaluar una condición, comparando dos o más valores y evaluando casos entre verdaderos y falsos, si la condición se cumple ejecuta el código dentro de si, si no pasa a una segunda declaración que puede ser "Else if" o "Else", siendo el primero una condición más, y el último cualquier excepción a las condicionales anteriores.
+
+Valores Booleanos ('true', 'false'):
+Los valores Booleanos son otro tipo de dato que puede tener una variable, este solo puede tener dos "estados" o valores, que serían "True", Verdadero, y "False", Falso, estos valores podemos asignarlos mediante una comparación o condicional (por ejemplo mediante un If, o mayormente mediante operadores de comparación '<', '>', '==', etc u operadores lógicos) en el que evaluemos X condición y si se cumple dicha condición toma el valor de True y si no se cumple toma el valor de False.
