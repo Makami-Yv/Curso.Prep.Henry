@@ -1,0 +1,9 @@
+Actividad de Homework No. 1:
+
+Escribir explicaciones de los siguientes conceptos:
+
+For:
+For es una declaración (Statement) que sirve de estructura de bucle dentro del código, es similar a un if, solo que con una estructura más compleja, la cual se compone de 4 partes, un valor inicial, el cual es la línea de partida de la declaración, un valor condicional, el cual es el la expresión que se evalua para mantener o terminar el ciclo, por lo que podemos llamarlo, "la meta", luego esta el aumento de nuetro valor, para que este se mantenga creciendo con cada interacción hasta llegar a la meta, y por último, el bloque de código que se ejecuta en cada vuelta que da nuestro ciclo. Todas estas partes funcionan cual engranaje para hacer que la maquinaría (en este caso nuestro código) avance.
+
+Operadores de lógica (&&, ||, !):
+Los operadores de lógica on en cierto punto similares a los operadores de comparación, lo que hacen es evaluar dos expresiones, para comprobar si el resultado es True o False, pero este se guía bajo el algébra booleano, en el cual dependiendo del operador  necesitamos de ciertas condiciones para determinar un resultado u otro, en el caso de AND (&&) necesitamos que ambas expresiones sean True para tener un resultado True. En el caso de OR (||) necesitamos que al menos uno de las dos expresiones sean True para tener un resultado True. y por último el NOT (!), este puede evaluar una o más expresiones, de las cuales siempre tendrá el resultado contrario a la expresión que evalua, ya que esta lo niega.
