@@ -1,0 +1,7 @@
+Actividadde Homework No. 1:
+
+Escribir explicaciones de los siguientes  conceptos:
+
+Arrays:
+
+Los arrays son un elemento (que podemos tomar como un tipo de variable, pues no es un tipo de dato) que permite almacenar multiples valores dentro de si, a los cuales podemos acceder mediante un indice, los arrays son muy flexibles en cuanto a uso pues podemos almacenar elementos de todo tipo, sin importar su tipo de dato (numbers, strings, nulls, undefined,booleans) e incluso otros arrays y funciones, las cuales se pueden acceder a sus elementos mediante un subindice o en el caso de la función, invocandola. una forma simple de entender los arrays es que estos son contenedores o cajas organizadas que puedes llamar y vienen numeradas (empezando su indice desde el 0).
