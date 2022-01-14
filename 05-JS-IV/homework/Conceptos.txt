@@ -1,0 +1,24 @@
+Actividad No 1 JS IV:
+
+Explica los siguientes conceptos:
+
+
+Objetos: 
+Los objetos son un elemento contenedor más al igual que los Array(arreglos) es objetos al ser un contenedor son capaces de almacenar valores de diferentes tipos de datos dentro de si, incluyendo arrays, otros objetos e incluso funciones. Los objetos tienen como principal diferencia contra los arrays de que estos en lugar de tener un indice númerico como los arrays estos tienen un indice que se conforma de una clave (un string), a esto se le llama que los objetos almacenan elementos "Clave:Valor" ya que cada elemento dentro de un objeto tiene una clave o "identificador" (Key) y su respectivo Valor (Value) relacionado a este, y para acceder a uno de estos valores debemos usar la Clave especifica de dicho valor.
+
+Propiedades:
+Las propiedades son la forma en como se le llaman a los elementos que contienen unicamente un dato dentro de Valor (un string, number o boolean, array).
+
+Métodos: 
+Los métodos son por el contrario los elementos que no contienen datos dentro de su valor si no que almacenan una función la cual es invocada al ser llamado su indice (Key/clave).
+
+Bucle "for... in":
+Este es el bucle especial que tienen los Objetos de misma forma que los for normales iteran dentro de los arrays para acceder dentro de sus elementos, el for..in itera dentro de las claves del objeto una a una hasta terminar de retornar todos los elementos de objeto.
+
+Notación de puntos vs Notación de Corchetes:
+Estas son las dos formas de acceder a los valores dentro de los elementos de los objetos, la notación de puntos es de la siguiente manera "Obj.propiedad", esto nos retornará el valor de la propiedad que tiene la palabra clave "Propiedad" dentro del Objeto Obj; La notación por corchetes cumple exactamente con la misma función que la anterior solo que esta se representa de la siguiente manera "Obj['Propiedad']" esto nos retornaría al valor de dicha propiedad, la unica diferencia es que con la notación de corchetes nos permite pasar una variable. ejemplo: 
+
+var i = 'Propiedad';
+Obj[i];
+
+y esto nos retornará el valor de la propiedad con la palabra clave 'Propiedad'.
