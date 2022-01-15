@@ -1,0 +1,9 @@
+Actividad No. 1 de los ejercicios de JSV:
+
+Realiza las siguientes explicaciones:
+
+Prototype:
+Prototype es un método dentro de JavaScript el cual permite la adiición de métodos a objetos que nos están sirviendo de clases, esto para evitar un consumo mayor de memoria que simplemente creando la clase con sus métodos desde un principio. Además prototype permite poder agregar métodos en todo momento a las clases que queramos, por lo que es una forma bastante versátil de agregar dichos métodos pues podemos asignarles métodos diferentes incluso a objetos de la misma clase.
+
+Constructors (de Clases):
+Los Constructors son los metodos que podemos usar para crear un objeto con las propiedades de la clase a la que prtenece dicho constructor, podemos darnos la idea de que este es la plantilla que presionamos en un material para obtener el objeto con las cualidades que especificamos, estos constructors se declaran como una función a la cual agregamos propiedades mediante parametros que podemos mandar a dicha función.
