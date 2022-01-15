@@ -1,0 +1,6 @@
+Ejercicio No.1 de JSVI:
+
+Explicar los siguientes conceptos:
+
+Funciones Callback:
+Las funciones Callback son funciones que dependen de otras funciones, ya que estas toman una función como argumento, lo que permite ser más flexible con las declaraciones dentro del código, pasando de tener que realizar una función que realice cada caso particular a fragmentos que podemos llamar en cualquier momento mediante otra función para poder realizar lo que le pedimos, este concepto nos hace saltar de un paradigma imperativo, donde le decimos paso a paso que hacer al interprete a un paradigma declarativo, donde seimplemente indicamos las funciones que queremos realizar y el interprete las llama para realizarlas.
